@@ -1,0 +1,1 @@
+const btnAvancar = document.getElementById("btn-avancar");
